@@ -8,5 +8,8 @@ print(f"y is {y}")
 s=input(" miaw !").capitalize()
 print(f"s is {s}")
 
+w=input(" nhbk !").capitalize()
+print(f"w is {w}")
+
 
 
